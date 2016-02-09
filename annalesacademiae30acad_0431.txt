@@ -1,0 +1,47 @@
+ASTRONOMICA. 203
+
+Χ 2. Altitudinum correctio.
+
+Duplex solis altitudo obs. . . 73058'20‘' . ., 69027‘12“
+Error indicis ...... -Ι- 33 . . -ι- 33
+Apparens duplex altitudo . . 73⁰ 58'53'' . . 69097ῗ45”
+Apparens simplex altitudo . . 36 59 26‚5 . .- 34 43 ξμς
+Refractio media Delambriana . — 1 17,2 . · , —- 1 2339
+Parallaxis , ...... -ῑ- 6,7 . . -ι- 6,9
+Semidiameter apparens . . . -· 1546‚7 . . - 15 46‚7
+Altitudo vera centri solis . 56042‘29‘'‚3 . . 34026‘48“‚8
+z (distantia zenithalis) . . 53 17 30, 7 . . 55 33 11 ‚2-
+Cubiculi latitudinem ipse ex observationibus cir-.
+
+ 
+
+ 
+
+ 
+
+ 
+
+cum-meridianis solis, per mensem Juliurn cre·
+bro institutis, beneque congruentibus, invene-
+ram . . 5301'30“- Itaque ψ (distantia pola-
+ris zenithi) est 36058‘30''.
+3. Angulorum computum.
+z = 530 17‘ 30“‚ 7 in serie priori.
+ψ-τ- 36 58 30, 0 . . . . c01.sin=0,2207886
+
+ 
+
+ 
+
+ 
+
+p= 70 17 28, 6 . . . . col. sin=0,0272177
+2s=160033‘27‚ 3
+s: 80 16 44, 15 ..... 1. sin=9‚9937190
+s——'z= 26 59 13,45 ..... 1. sin=9‚6568543
+summa = 9‚8975796
+·1. cos ὲ P=9,9487898
+{P Ξ 27016‘ 50⁰,137
+
+P=54 33 41 ‚74
+

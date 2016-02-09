@@ -1,0 +1,44 @@
+AsTRONomlcm Q
+
+ubi Δδ est diurna variatio declinationis et x ipsa,
+quae quaerebatur, longitudinis differentia (1).
+
+Sed in nautarum usum haecce methodus paullo
+diversam induat formam. Observetur altitudo me-
+ridiana lunae3 inde primum altitudo vera a, dein,
+applicata latitudine φ, declinatio supputetur.
+Sit illa δ, et cadat inter duas declinationes, n ho-
+ris distantes. Tum, si per illud tempus tibi su-
+mas progressus uniformitatem, erit:
+
+Δ δ : δ - d = n z x.
+Pars proportionalis x, addita horae T, qua decli-
+natio Δ locum habuerit, dabit horam culminationis
+Grenovicensem ε
+δ-ιί
+Δδ
+
+computata itaque , sive ex ephemeride ‚ quae
+suppeditet transitus Grenovicensis horam (adhibita
+correctione, qua illa reducatur ad navis longitudi-
+nem) sive ex observatione simultanea solis stellaeve‚
+sive tempore aliunde cognito, — computata itaque
+transitus hora per meridianum nostrum τ’, diffe-
+rentia horarum -t—‘t‘ meridianorum angulus erit.
+
+Ceterum animadvertendum est, in hac methodo,
+sicut in antecedenti, ubi differentia temporis inter
+annuntiata lunae loca paulo major sit , atque lunae
+motus adeo per illud tempus uniformis haberi ne-
+
+queat,
+
+⁰r=T-{-
+
+ 
+
+· 77.
+
+(ι) Oltmans, in Rode, Astron. Jahrhnch. 1824, pag.
+181.
+
